@@ -1,37 +1,182 @@
 # Casual Connections and Event Vectors
 ## Behavioral
-### ACL / ACE 
+### ACL / ACE
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Discard
+#### Layer 2
+#### Layer 3
+### ASIC
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Policies
+#### Discard
+#### Layer 2
 ### Bandwidth Utilization
-### Buffer Utilization Efficiency
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### Discard
+#### Layer 2
+#### Layer 3
+### Buffer 
+#### Utilization
+##### Buffers
+##### Interface
+##### Throughput
+##### Control Plane
+##### Discard
+##### Environmental
+#### Efficiency
+##### Buffers
+##### Interface
+##### Throughput
+##### Physical
 ### Congestion
+##### Buffers
+##### Interface
+##### Throughput
+##### Physical
+##### Discard
 ### Contention
+##### Buffers
+##### Interface
+##### Throughput
+##### Physical
+##### Discard
 ### Control Plane Policing
+##### Interface
+##### Physical
+##### RIB/FIB
+##### Policies
+##### Environmental
 ### Device
-#### Environmental 
+#### Environmental
+##### Interface
+##### Throughput
+##### Physical
+##### Environmental
 #### Health
-### ECMP Load Distribution
+##### Physical
+##### Environmental
+##### Layer 3
+##### Layer 2
+##### Layer 1
 ### Flow Path
+#### Interface
+#### Throughput
+#### RIB/FIB
+#### Layer 3
+#### Layer 2
 ### Incast
+#### Buffers
+#### Interface
+#### Throughput
+#### Discard
 ### Interface
 #### Health
+##### Interface
+##### Throughput
+##### Physical
+##### Discard
+##### Layer 3
+##### Layer 2
+##### Layer 1
 #### State
+##### Interface
+##### Throughput
+##### Physical
+##### Layer 3
+##### Layer 2
+##### Layer 1
 ### Link
 #### Health
+##### Interface
+##### Throughput
+##### Physical
+##### Layer 3
+##### Layer 2
+##### Layer 1
 #### Speed
+##### Interface
+##### Throughput
+##### Physical
+##### Layer 1
 #### Stability
+##### Interface
+##### Throughput
+##### Physical
+##### Layer 3
+##### Layer 2
+##### Layer 1
 ### Load Distribution 
 #### ECMP
+##### Interface
+##### Throughput
+##### RIB/FIB
+##### Discard
+##### Layer 3
+##### Layer 2
 #### LACP
+##### Interface
+##### Throughput
+##### RIB/FIB
+##### Discard
+##### Layer 3
+##### Layer 2
 ### Maintenance Window
+#### The Human Factor
 ### Packet
+#### Interface
+#### Throughput
+#### Layer 2
+#### Layer 1
 ### Class of Service
-### RIB / FIB 
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Discard
+#### Layer 2
+#### Layer 3
+### RIB / FIB
 #### Constistency
+##### RIB/FIB
+##### Environmental
 #### Utilization
+##### Physical
+##### RIB/FIB
+##### Environmental
 ### Route
-#### Stability 
+#### Convergence
+##### Buffers
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Discard
+##### Layer 3
+#### Stability
+##### Control Plane
+##### RIB/FIB
+##### Discard
 #### Updates
+##### Control Plane
+##### RIB/FIB
+##### Discard
 #### Health
+##### Control Plane
+##### RIB/FIB
+##### Discard
+##### Layer 3
 ### Telemetry Health
 ### Transceiver 
 #### Health
