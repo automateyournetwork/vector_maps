@@ -212,48 +212,306 @@
 #### Layer 2
 ## Events
 ### ASIC ECC Errors
+#### Physical
+#### Discard
 ### BFD State Change
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Physical
+#### Discard
+#### Layer 3
+#### Layer 1
 ### Buffer Starvation
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### Discard
 ### CDP Drop
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### Policies
+#### Physical
+#### Discard
+#### Layer 2
+#### Layer 1
 ### CEF Punts
+#### Physical
+#### Control Plane
+#### RIB/FIB
+#### Layer 3
 ### DDoS
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### Policies 
+#### Discard
 ### Device Failure
+#### Physical
+#### Control Plane
+#### Environmental
 ### Disk
 #### Failure
+##### Physical
+##### Control Plane
 #### Full
 ### Fan Failure
+#### Physical
+#### Envrionmental
 ### Misconfiguration
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Policies
+#### Physical
+#### Environmental
+#### Discard
+#### Layer 3
+#### Layer 2
+#### Layer 1
 ### High
 #### CPU
 #### Fan Speed
 #### Temperature
 ### Imbalance
 #### ECMP
+##### Buffers
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Discard
+##### Layer 3
+##### Layer 2
 #### LACP
+##### Buffers
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Discard
+##### Layer 3
+##### Layer 2
 ### Interface Errors
+#### Interface
+#### Throughput
+#### Physical
+#### Discord
+#### Layer 2
+#### Layer 1
 ### LACP Member Fail
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Layer 2
+#### Layer 1
 ### Link Failure
+#### Interface
+#### Physical
+#### Control Plane
+#### Environmental
+#### Discard
+#### Layer 1
 ### LLDP Drop
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Policies
+#### Physical
+#### Layer 3
+#### Layer 2
+#### Layer 1
 ### MAC Move
+#### Interface
+#### Control Plane
+#### Layer 2
 ### Memory Leak
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Physical
+#### Discard
+#### Layer 3
+#### Layer 2
 ### MTU Mismatch
+#### Interface
+#### Discard
 ### Neighbor State Change
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Discard
+#### Environmental
+#### Layer 3
+#### Layer 2
 ### Packet Drops
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### Physical
+#### Discard
+#### Layer 3
+#### Layer 2
 ### Port State Change
+#### Buffers
+#### Interface
+#### Throughput
+#### Policies
+#### Environmental
+#### Discard
+#### Layer 3
+#### Layer 1
 ### Power
 #### Budget Exceeded
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
+##### Layer 2
+##### Layer 1
 #### Supply Failure
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
+##### Layer 2
+##### Layer 1
 ### Process Failure
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
+##### Layer 2
 ### Route
 #### Failure OOM
+##### Buffers
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
 #### Flap
+##### Buffers
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
+##### Layer 2
+##### Layer 1
 #### Loop
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
+##### Layer 2
 #### Programming
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
+##### Layer 2
 #### Blackhole
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
+##### Layer 2
 ### Telemetry
 #### Failure
+##### Control Plane
+##### Environmental
+##### Discard
 #### Congestion
+##### Control Plane
+##### Environmental
+##### Discard
 ### Transceiver
 #### Power
+##### Interface
+##### Throughput
+##### Control Plane
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 2
+##### Layer 1
 #### Lane Power
+##### Interface
+##### Throughput
+##### Control Plane
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 2
+##### Layer 1
 ### Tunnel Drop
+##### Buffers
+##### Interface
+##### Throughput
+##### Control Plane
+##### RIB/FIB
+##### Policies
+##### Physical
+##### Environmental
+##### Discord
+##### Layer 3
+##### Layer 2
+##### Layer 1
