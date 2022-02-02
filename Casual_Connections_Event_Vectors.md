@@ -178,11 +178,38 @@
 ##### Discard
 ##### Layer 3
 ### Telemetry Health
-### Transceiver 
+#### Interface
+#### Control Plane
+#### Environmental
+### Transceiver
 #### Health
+##### Interface
+##### Throughput
+##### Control Plane
+##### Physical
+##### Environmental
+##### Layer 1
 #### State
+##### Interface
+##### Throughput
+##### Control Plane
+##### Physical
+##### Environmental
+##### Layer 1
 ### Tunnel Health
+#### Interface
+#### Throughput
+#### Discard
+#### Layer 3
+#### Layer 2
 ### Quality of Service
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### Discard
+#### Layer 3
+#### Layer 2
 ## Events
 ### ASIC ECC Errors
 ### BFD State Change
