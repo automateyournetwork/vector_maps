@@ -1,0 +1,3 @@
+# Fan Failure
+## Physical
+## Envrionmental

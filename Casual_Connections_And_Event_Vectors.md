@@ -40,23 +40,23 @@
 ##### Throughput
 ##### Physical
 ### Congestion
-##### Buffers
-##### Interface
-##### Throughput
-##### Physical
-##### Discard
+#### Buffers
+#### Interface
+#### Throughput
+#### Physical
+#### Discard
 ### Contention
-##### Buffers
-##### Interface
-##### Throughput
-##### Physical
-##### Discard
+#### Buffers
+#### Interface
+#### Throughput
+#### Physical
+#### Discard
 ### Control Plane Policing
-##### Interface
-##### Physical
-##### RIB/FIB
-##### Policies
-##### Environmental
+#### Interface
+#### Physical
+#### RIB/FIB
+#### Policies
+#### Environmental
 ### Device
 #### Environmental
 ##### Interface
@@ -503,15 +503,15 @@
 ##### Layer 2
 ##### Layer 1
 ### Tunnel Drop
-##### Buffers
-##### Interface
-##### Throughput
-##### Control Plane
-##### RIB/FIB
-##### Policies
-##### Physical
-##### Environmental
-##### Discord
-##### Layer 3
-##### Layer 2
-##### Layer 1
+#### Buffers
+#### Interface
+#### Throughput
+#### Control Plane
+#### RIB/FIB
+#### Policies
+#### Physical
+#### Environmental
+#### Discord
+#### Layer 3
+#### Layer 2
+#### Layer 1
